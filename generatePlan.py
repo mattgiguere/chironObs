@@ -51,11 +51,11 @@ def generatePlan():
                     'High', 555, 0, 'Yes', 'Unscheduled', 'None',
                     obj_comment, 'None']
     tauCeti_I2B = ['NULL', 247, 3, 0, 0, -1, 'Standard', '10700',
-                   object_seq, 26.017, -15.9375, 'J2000', 3.5, 4, '', 'No',
+                   object_seq, 26.017, -15.9375, 'J2000', 3.5, 4, 'Yes', 'No',
                    'High', 383, 0, 'Yes', 'Unscheduled', 'None',
                    obj_comment, 'None']
     tauCeti_I2A = ['NULL', 247, 3, 0, 0, 1, 'Standard', '10700',
-                   object_seq, 26.017, -15.9375, 'J2000', 3.5, 3, '', 'No',
+                   object_seq, 26.017, -15.9375, 'J2000', 3.5, 3, 'Yes', 'No',
                    'High', 383, 0, 'Yes', 'Unscheduled', 'None',
                    obj_comment, 'None']
     hr472 = ['NULL', 247, 3, 0, 0, 0, 'Science', 'HR 472', object_seq,
